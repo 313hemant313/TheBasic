@@ -86,7 +86,3 @@ Source src/main/resources/application.yaml
 ```
 
 #### Also you can checkout examples in the postman-examples directory.
-
-# License
-
-The application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
